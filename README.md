@@ -1,5 +1,5 @@
 # MNIST Classification w/ GUI
-This project was completed for my Computer Vision class. The purpose of this project is to learn about training neural networks in python. To accomplish this we were tasked with constructing a multi-layer perceptron capable of classifying handwritten digits from the MNIST database using only pandas and numpy. I then added a GUI so that users could draw digits using their mouse and that image can be predicted by the model. The first step of this project was a homework assignment to calculate the Jacobians necessary to perform the back-propagation in the algorithm. My answers to this assignment are included in this repository.
+This project was completed for my Computer Vision class. The purpose of this project is to learn about training neural networks in python. To accomplish this we were tasked with constructing a multi-layer perceptron capable of classifying handwritten digits from the MNIST database using only pandas and numpy. I then added a GUI so that users could draw digits using their mouse and that image can be predicted by the model. This repository contains the values of the trained network and the GUI so that you can interact with the neural network I trained.
 
 ## Background
 
